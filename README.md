@@ -14,7 +14,7 @@ Crop_Yield_Predictor is a machine learning–powered application that predicts m
 
 1. **Clone the repository:**
 	```powershell
-	git clone https://github.com/Sujan122321/Crop_yield_prediction_from_soil_and_weather.git
+	git clone https://github.com/sjr11/Crop_yield_prediction_from_soil_and_weather.git
 	cd Crop_yield_prediction_from_soil_and_weather
 	```
 
@@ -65,4 +65,4 @@ This project is licensed under the MIT License.
 
 
 ## contact
- gmail: suzanstha203@gmail.com
+ gmail: srijankhadkajr11@gmail.com
